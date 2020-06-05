@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+}
+h1 {
+    color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+div.place {
+    display: flex;
+    justify-content: center;
+}
+
+div.place > ul {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+}
+
+div.place > div {
+    display: inline-block;
+    justify-content: space-evenly;
+    margin: .1em;
+}
+fieldset {
+    margin: 10%;
+}
+#error {
+    justify-content: center;
+    color: red;
+}

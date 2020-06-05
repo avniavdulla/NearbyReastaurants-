@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be396f35-a5b7-4c14-8c6c-67d83d686929" name="SixthMan" url="http://arctic.cse.msu.edu">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/avdullaa/classweb/SixthMan" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

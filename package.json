@@ -1,0 +1,10 @@
+{
+  "name": "Avni Avdulla",
+  "version": "1.0.0",
+  "description": "Challenge for sixth man technologies.",
+  "main": "js/index.js",
+  "dependencies": {
+    "jquery": "^3.5.0",
+    "scrollmagic": "^2.0.7"
+  }
+}
